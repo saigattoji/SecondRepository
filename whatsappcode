@@ -1,0 +1,10 @@
+public class whatsapp{
+   public void main(){
+     syso("ready for deploying");
+   };
+
+
+
+
+}
+;
