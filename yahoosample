@@ -1,1 +1,10 @@
+public class yahoo{
+  public void main(){
 
+
+system.out.println("WELCOME YAHOO");
+
+
+  };
+
+};
