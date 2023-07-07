@@ -4,7 +4,7 @@ public class twitter{
 
      if(condtion true){
 
-      syso(112);
+      syso(false);
 
      }else{
        syso(failed);
